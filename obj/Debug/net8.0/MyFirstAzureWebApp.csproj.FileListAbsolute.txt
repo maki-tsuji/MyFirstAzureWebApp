@@ -28,3 +28,4 @@ C:\Users\makitsuji\OneDrive - Microsoft\Documents\2024_webapp_handson\ASPNET_dem
 C:\Users\makitsuji\OneDrive - Microsoft\Documents\2024_webapp_handson\ASPNET_demo\MyFirstAzureWebApp\obj\Debug\net8.0\MyFirstAzureWebApp.pdb
 C:\Users\makitsuji\OneDrive - Microsoft\Documents\2024_webapp_handson\ASPNET_demo\MyFirstAzureWebApp\obj\Debug\net8.0\MyFirstAzureWebApp.genruntimeconfig.cache
 C:\Users\makitsuji\OneDrive - Microsoft\Documents\2024_webapp_handson\ASPNET_demo\MyFirstAzureWebApp\obj\Debug\net8.0\ref\MyFirstAzureWebApp.dll
+C:\Users\makitsuji\OneDrive - Microsoft\Documents\2024_webapp_handson\ASPNET_demo\MyFirstAzureWebApp\obj\Debug\net8.0\MyFirstAzureWebApp.sourcelink.json
